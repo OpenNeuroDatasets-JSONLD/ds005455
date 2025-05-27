@@ -1,7 +1,6 @@
 {
     "Name": "An fMRI dataset for investigating language control and cognitive control in bilinguals",
     "BIDSVersion": "1.8.0",
-    "DatasetType": "raw/derivative",
     "Authors": [
         "Tingting Guo",
         "Xuedi Liu",
@@ -23,7 +22,5 @@
         "GitHub repository: https://github.com/GttNeuro/Guo-Lab_datapaper",
         "Dataset description paper: https://doi.org/10.1038/s41597-025-05245-9"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005455.v1.1.6",
-    "GeneratedBy": [],
-    "SourceDatasets": []
+    "DatasetDOI": "doi:10.18112/openneuro.ds005455.v1.1.6"
 }
