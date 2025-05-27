@@ -14,7 +14,7 @@
     ],
     "HowToAcknowledge": "When using this dataset in your research, please cite: Guo et al., 2025, Scientific Data (https://doi.org/10.1038/s41597-025-05245-9)",
     "License": "CC0",
-    "Disclaimer": "Although OpenNeuro requires CC0 licensing, users are ethically expected to comply with CC BY-NC-ND terms as specified in our publication [https://doi.org/10.1038/s41597-025-05245-9]. Commercial use prohibited."
+    "Disclaimer": "Although OpenNeuro requires CC0 licensing, users are ethically expected to comply with CC BY-NC-ND terms as specified in our publication [https://doi.org/10.1038/s41597-025-05245-9]. Commercial use prohibited."，
     "Name": "An fMRI dataset for investigating language control and cognitive control in bilinguals",
     "EthicsApprovals": [
         "This study was approved by the Institutional Review Board of the Imaging Center for Brain Research of Beijing Normal University."
