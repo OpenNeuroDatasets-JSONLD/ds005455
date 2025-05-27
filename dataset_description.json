@@ -12,7 +12,7 @@
     "Funding": [
         "31871097 (to Taomei Guo)"
     ],
-    "HowToAcknowledge": "The submission of this dataset is in progress, and the specific instructions for citation will be updated as soon as possible.",
+    "HowToAcknowledge": "When using this dataset in your research, please cite: Guo et al., 2025, Scientific Data (https://doi.org/10.1038/s41597-025-05245-9).",
     "License": "CC0",
     "Name": "An fMRI dataset for investigating language control and cognitive control in bilinguals",
     "EthicsApprovals": [
