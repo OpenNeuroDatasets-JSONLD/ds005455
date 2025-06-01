@@ -1,3 +1,5 @@
+1.1.6 2025-06-01
+  - This update modifies metadata in dataset_description.json to align with our published article (DOI:10.1038/s41597-025-05245-9), including updated citation requirements and license clarifications, while maintaining complete consistency with all experimental data files from Version 1.1.5.
 1.1.5 2024-09-07
   - Upload files
 1.1.4 2024-09-07
